@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body
+{
+
+    background-color: rgb(42, 71, 165);
+    
+
+}
+header
+{
+    
+  background-color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  color: yellow;
+  margin-bottom: 20px;
+  padding: 30px;
+  font-size: 20px;
+}
+main    
+{
+    background-color: rgb(0, 255, 13);
+    color: blueviolet;
+    margin-bottom: 50px;
+    padding: 25px;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+footer
+{
+    background-color: pink;
+}
